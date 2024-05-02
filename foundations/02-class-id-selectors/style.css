@@ -1,1 +1,4 @@
-p {background-color: rgb(231, 105, 105); font:"Verdana", "DejaVu Sans", sans-serif}
+.odd-numbered {background-color: rgb(231, 105, 105); font:"Verdana", "DejaVu Sans", sans-serif}
+.odd-numbered.third {font-size: 24px}
+#second {color: rgb(0,0,255); font-size: 36px;}
+#fourth {background-color: rgb(180, 255, 180); font-size:24px; font-weight:bold;}
