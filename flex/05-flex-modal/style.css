@@ -21,22 +21,24 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 20px;
-}
-
-.upper {
   display:flex;
-  justify-content: space-between;
+  gap: 20px;
 }
 
-.left-upper{
- gap:25px;
- display: flex;
+.right-upper{
+display:flex;
+justify-content: space-between;
 }
 
 .header{
   font-weight: bold;
   font-size: 20px;
 }
+
+.text {
+  margin: 15px 0;
+}
+
 
 .icon {
   color: royalblue;
